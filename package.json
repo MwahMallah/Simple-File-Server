@@ -1,0 +1,16 @@
+{
+  "name": "lect",
+  "version": "1.0.0",
+  "main": "hello.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.3.2"
+  }
+}
